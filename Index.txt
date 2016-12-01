@@ -1,0 +1,3 @@
+O'Reilly Learning Python
+
+book exercises
