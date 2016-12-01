@@ -1,0 +1,1 @@
+variable = open(newfile_or_existingfile, 'w' for write or 'r' for readvariable.write('some lines of texts')variable.close(), closes file and flushes buffer
